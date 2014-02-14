@@ -2,10 +2,10 @@
 
 ######Version 1.0
 
-A tool for Jinja developers. This will allow navigation buttons to keep active status(highlighted). 
+A tool for frameworks which re-use header files containing navigation links/buttons. This will allow navigation buttons to keep active status(highlighted). 
 
 ####The Issue:
-With Jinja templating, only one header file is needed and reused for each webpage. Because of this, class="active" for bootstrap
+With frameworks such as Jinja templating, only one header file is needed and reused for each webpage. Because of this, class="active" for bootstrap
 frameworks can not be applied to the current \<li> active element in the navigationale bar. 
 
 ####The Fix:
