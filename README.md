@@ -1,6 +1,7 @@
 ##Active-Navigation-Button-Javascript-Module
 
-######Version 1.0
+######Version 2.0
+*Now with url slug position setting
 
 A tool for frameworks which re-use header files containing navigation links/buttons. This will allow navigation buttons to keep active status(highlighted). 
 
